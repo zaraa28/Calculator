@@ -41,6 +41,7 @@ fun CalculatorScreen() {
                 Text(text = "Drugi broj")
             }
         )
+        //neki komentar
         Text(text = rezultat.toString())
 
         Row() {
